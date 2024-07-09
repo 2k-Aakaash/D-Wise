@@ -1,0 +1,26 @@
+/* src/components/Post/Post.css */
+.post {
+    background-color: #333;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.post-image {
+    width: 100%;
+    height: auto;
+}
+
+.post-content {
+    padding: 20px;
+}
+
+.user-handle {
+    color: #ccc;
+}
+
+.post-upvotes {
+    margin-top: 10px;
+    color: #888;
+}
